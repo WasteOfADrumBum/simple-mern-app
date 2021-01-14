@@ -5,7 +5,7 @@ const Header = () => (
   <nav className="flex items-center justify-between flex-wrap bg-teal p-6">
     <div className="flex items-center flex-no-shrink text-white mr-6 logo">
       <Link to="/">
-        <span className="font-semibold text-xl tracking-tight">Logo</span>
+        <span className="font-semibold text-xl tracking-tight">MERN-Stack CRUD App</span>
       </Link>
     </div>
     <div className="block lg:hidden">
